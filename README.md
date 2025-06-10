@@ -41,8 +41,9 @@ Check out my pinned repos below, or explore my repositories!
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=abatista-planas&show_icons=true&theme=default" alt="Adrian's GitHub Stats" />
 </p>
--->
 ---
+-->
+
 
 <details>
 <summary>More about me…</summary>
