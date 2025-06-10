@@ -29,21 +29,6 @@ My work sits at the intersection of physics, chemistry, math, and programming. I
 
 ---
 
-### 📌 Pinned Projects
-
-Here are a few highlights from my work and research—  
-Check out my pinned repos below, or explore my repositories!
-
----
-<!--
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abatista-planas&show_icons=true&theme=default" alt="Adrian's GitHub Stats" />
-</p>
----
--->
-
 
 <details>
 <summary>More about me…</summary>
