@@ -24,9 +24,8 @@ My work sits at the intersection of physics, chemistry, math, and programming. I
 
 ### 🔗 Let’s Connect!
 
-- [LinkedIn](https://www.linkedin.com/) <!-- Replace with your link -->
-- [Personal Website](https://yourwebsite.com) <!-- Replace with your link -->
-- [Email](mailto:your.email@example.com) <!-- Replace with your email -->
+- [LinkedIn](www.linkedin.com/in/adrian-batista-aab275169) <!-- Replace with your link -->
+- [Email](albplanas0904@gmail.com) <!-- Replace with your email -->
 
 ---
 
@@ -49,7 +48,7 @@ Check out my pinned repos below, or explore my repositories!
 <summary>More about me…</summary>
 
 - ⚡ I love learning new things, especially where science meets code
-- 🌍 Originally from Havana, Cuba, now based in the US
+- 🌍 Originally from Cuba, now based in the US
 - 🎶 I unwind with music, books, and good coffee
 
 </details>
