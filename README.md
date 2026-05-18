@@ -1,41 +1,37 @@
-<!-- Profile README for Adrian Batista -->
+# 👋 Hi, I'm Adrian Batista
 
-<h1 align="center">👋 Hi, I'm Adrian Batista!</h1>
-<p align="center">
-  <em>Data Scientist & ML Engineer · PhD Computational Chemical-Physics ·
-Production ML for industrial sensor systems · Houston, TX </em>
-</p>
+**Data Scientist & ML Engineer** · Production ML for industrial sensor systems
+PhD in Computational Chemical Physics · Houston, TX
 
 ---
 
-### 🌟 About Me
+## What I do
 
-I’m passionate about transforming complex science into practical technology.  
-Currently, I’m finishing my PhD in Physical Chemistry at Missouri University of Science and Technology, where I design software that helps scientists understand how molecules interact—even at distances too small to see.
+I build and deploy machine learning systems for industrial operations.
+At BP, I've shipped production ML applications, including:
 
-My work sits at the intersection of physics, chemistry, math, and programming. I specialize in building tools (using MATLAB, C++, and Fortran) to model the “invisible forces” between molecules—essential for everything from advanced materials to environmental science.
+- **Sand Detection & Alarm Optimization** — 99% reduction in false alarms across
+  subsea production assets in the Gulf of Mexico, Trinidad, and Azerbaijan
+- **Refinery Blending Optimization** — real-time blend quality prediction at
+  BP's Whiting refinery, ~$5–7M annual revenue impact
+- **AutoML Framework** — standardized time-series benchmarking with MLflow,
+  Ray Tune, and walk-forward validation
+- **ALI-C** — production model monitoring system using statistical drift
+  detection (CUSUM, EWMA, Hotelling's T², Q/SPE)
 
-- 🔬 **Research:** Molecular simulations & Potential Energy Surfaces  
-- 💻 **Coding:** MATLAB, C++, Fortran, Python, and more  
-- 🚀 **Skills:** Scientific computing, parallel programming, numerical methods  
-- 🎓 **Background:** BSc in Physics (minors: Math & Chemistry), FIU  
-- 🛠️ **Industry:** Former software engineer (web & device apps)
+## Skills
 
----
+**ML/DS:** Python, pandas, numpy, scikit-learn, PyTorch, XGBoost, MLflow, Optuna
+**Production:** FastAPI, Docker, Streamlit, Palantir Foundry, Postgres, MongoDB, InfluxDB
+**Scientific computing:** C++, MATLAB, Fortran, OpenMP/MPI, HPC (from PhD background)
 
-### 🔗 Let’s Connect!
+## Background
 
-- [LinkedIn](www.linkedin.com/in/adrian-batista-aab275169) <!-- Replace with your link -->
-- [Email](albplanas0904@gmail.com) <!-- Replace with your email -->
+PhD candidate in Computational Chemical Physics at Missouri S&T.
+Published in *J. Chem. Theory Comput.* — DOI: 10.1021/acs.jctc.5c01984
 
----
+## Let's connect
 
-
-<details>
-<summary>More about me…</summary>
-
-- ⚡ I love learning new things, especially where science meets code
-- 🌍 Originally from Cuba, now based in the US
-- 🎶 I unwind with music, books, and good coffee
-
-</details>
+- 📧 albplanas0904@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/adrian-batista-aab275169)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=RgDAptIAAAAJ)
