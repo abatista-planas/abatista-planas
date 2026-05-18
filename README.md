@@ -2,7 +2,8 @@
 
 <h1 align="center">👋 Hi, I'm Adrian Batista!</h1>
 <p align="center">
-  <em>PhD Candidate • Physical Chemistry • Scientific Software Developer</em>
+  <em>Data Scientist & ML Engineer · PhD Computational Chemical-Physics ·
+Production ML for industrial sensor systems · Houston, TX </em>
 </p>
 
 ---
