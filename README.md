@@ -10,8 +10,8 @@ PhD in Computational Chemical Physics · Houston, TX
 I build and deploy machine learning systems for industrial operations.
 At BP, I've shipped production ML applications, including:
 
-- **Sand Detection & Alarm Optimization** — 99% reduction in false alarms across
-  subsea production assets in the Gulf of Mexico, Trinidad, and Azerbaijan
+- **Sand Detection & Alarm Optimization** — 10-90% reduction in false alarms across
+  subsea production assets in the Gulf of Mexico and Trinidad
 - **Refinery Blending Optimization** — real-time blend quality prediction at
   BP's Whiting refinery, ~$5–7M annual revenue impact
 - **ALI-C** — production model monitoring system using statistical drift
