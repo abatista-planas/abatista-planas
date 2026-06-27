@@ -14,8 +14,6 @@ At BP, I've shipped production ML applications, including:
   subsea production assets in the Gulf of Mexico, Trinidad, and Azerbaijan
 - **Refinery Blending Optimization** — real-time blend quality prediction at
   BP's Whiting refinery, ~$5–7M annual revenue impact
-- **AutoML Framework** — standardized time-series benchmarking with MLflow,
-  Ray Tune, and walk-forward validation
 - **ALI-C** — production model monitoring system using statistical drift
   detection (CUSUM, EWMA, Hotelling's T², Q/SPE)
 
